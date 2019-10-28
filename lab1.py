@@ -81,3 +81,4 @@ SyntaxError: invalid syntax
 >>> print('{0:>3} {1:>16}'.format(10, 10**10))
  10      10000000000
 >>> 
+#latihan2
