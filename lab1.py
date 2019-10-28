@@ -82,3 +82,4 @@ SyntaxError: invalid syntax
  10      10000000000
 >>> 
 #latihan2
+# latihan2
