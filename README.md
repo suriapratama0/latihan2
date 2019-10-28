@@ -1,4 +1,4 @@
 # latihan2
 
-saya gila
+saya gila sekali
 #latihan2
