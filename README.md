@@ -1,3 +1,4 @@
 # latihan2
 
-saya
+saya gila
+#latihan2
